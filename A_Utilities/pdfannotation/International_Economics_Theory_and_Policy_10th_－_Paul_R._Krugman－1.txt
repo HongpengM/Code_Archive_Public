@@ -1,0 +1,404 @@
+﻿Annotation Summary of International_Economics_Theory_and_Policy_10th_－_Paul_R._Krugman－1.pdf.
+
+
+1 INTRODUCTION
+
+Highlight [page 36]: discursive
+
+
+The Gains from Trade
+
+Highlight [page 39]: two countries can trade to their mutual benefit even when one of them is more efficient than the other at producing everything and when producers in the less efficient country can compete only by paying lower wages.
+
+Highlight [page 39]: International migration and international borrowing and lending are also forms of mutually beneficial trade
+
+Highlight [page 39]: international trade may hurt particular groups within nations—in other words, that international trade will have strong effects on the distribution of income.
+
+
+How Much Trade?
+
+Highlight [page 41]: notoriety
+
+Highlight [page 41]: befits
+
+
+Exchange Rate Determination
+
+Highlight [page 42]: surge
+
+
+International Economics: Trade and Money
+
+Highlight [page 43]: They must cope with special regulations that many countries impose on foreign investment
+
+Highlight [page 43]: they also sometimes offer opportunities to evade regulations placed on domestic markets
+
+
+Who Trades with Whom?
+
+Highlight [page 46]: gross domestic product (GDP), which measures the total value of all goods and services produced in an economy.
+
+Highlight [page 47]: A * Y i * Y j >D ij , T ij = A
+
+Highlight [page 48]: T .
+
+Highlight [page 48]: large economies tend to spend large amounts on imports because they have large incomes.
+
+Highlight [page 48]: attract large shares of other countries’ spending because they produce a wide range of products.
+
+Highlight [page 49]: Impediments to Trade: Distance, Barriers, and Borders
+
+Highlight [page 49]: strong negative effect of distance on international trade
+
+Highlight [page 49]: trade agreement with the United States, the North American Free Trade Agreement, or NAFTA,
+
+
+The Changing Pattern of World Trade
+
+Highlight [page 53]: disintegration
+
+Highlight [page 53]: what do they trade?
+
+Highlight [page 53]: ship
+
+Highlight [page 53]: manufactured
+
+Highlight [page 53]: goods
+
+Highlight [page 53]: mineral products
+
+Highlight [page 53]: Agricultural products
+
+Highlight [page 53]: services
+
+Highlight [page 54]: service
+
+Highlight [page 54]: exports
+
+Highlight [page 54]: traditional transportation fees
+
+Highlight [page 54]: modern telecommunications
+
+Highlight [page 54]: overseas call and help centers:
+
+Highlight [page 54]: When a service previously done within a country is shifted to a foreign location, the change is known as service offshoring (sometimes known as service outsourcing).
+
+Underline [page 55]: It will, instead, be between services that can be delivered electronically over long distances with little or no degradation of quality, and those that cannot.”
+
+
+3 LABOR PRODUCTIVITY AND COMPARATIVE ADVANTAGE: THE RICARDIAN MODEL
+
+Highlight [page 59]: trade because they are different from each other.
+
+Highlight [page 59]: countries trade to achieve economies of scale in production.
+
+
+The Concept of Comparative Advantage
+
+Highlight [page 60]: opportunity cost to describe such trade-offs: The opportunity cost of roses in terms of computers is the number of computers that could have been produced with the resources used to produce a given number of roses.
+
+Highlight [page 61]: comparative advantage
+
+Highlight [page 61]: Trade between two countries can benefit both countries if each country exports the goods in which it has a comparative advantage.
+
+
+A One-Factor Economy
+
+Highlight [page 61]: Ricardian model
+
+Highlight [page 61]: unit labor requirement
+
+Highlight [page 61]: unit
+
+Highlight [page 62]: labor requirements as the inverse of productivity
+
+Highlight [page 62]: a LC Q + a LW Q W … L
+
+Highlight [page 63]: a LC >a LW
+
+Highlight [page 63]: The economy will specialize in the production of cheese if the relative price of cheese exceeds its opportunity cost in terms of wine; it will specialize in the production of wine if the relative price of cheese is less than its opportunity cost in terms of wine.
+
+Pens
+
+
+Trade in a One-Factor World
+
+Highlight [page 64]: In the absence of international trade, the relative prices of goods are equal to their relative unit labor requirements.
+
+Highlight [page 64]: Home has a comparative advantage in cheese.
+
+Highlight [page 64]: If a LC 6 a LC
+
+Highlight [page 64]: absolute advantage in producing that good
+
+Highlight [page 65]: partial equilibrium analysis
+
+Highlight [page 66]: general equilibrium analysis
+
+Highlight [page 66]: relative demand curve is indicated by RD;
+
+Highlight [page 66]: relative supply curve
+
+
+Box: Comparative Advantage in Practice: The Case of Babe Ruth
+
+Highlight [page 70]: In each case, trade has enlarged the range of choice, and therefore it must make residents of each country better off.
+
+Highlight [page 70]: The relative wage of a country’s workers is the amount they are paid per hour, compared with the amount workers in another country are paid per hour.
+
+
+Misconceptions about Comparative Advantage
+
+Highlight [page 72]: Myth 1: Free trade is beneficial only if your country is strong enough to stand up to foreign competition.
+
+Highlight [page 72]: gains from trade depend on comparative rather than absolute advantage.
+
+Highlight [page 72]: The competitive advantage of an industry depends not only on its productivity relative to the foreign industry, but also on the domestic wage rate relative to the foreign wage rate.
+
+
+Box: Do Wages Reflect Productivity?
+
+Highlight [page 73]: national wage rates do, in fact, reflect differences in productivity.
+
+Highlight [page 73]: Pauper
+
+Highlight [page 73]: Foreign competition is unfair and hurts other countries when it is based on low wages.
+
+Highlight [page 73]: pauper labor argument
+
+Highlight [page 73]: Foreign’s lower wage rate, however, is irrelevant to the question of whether Home gains from trade.
+
+Highlight [page 74]: productivity increases are reflected in wage increases.
+
+Highlight [page 74]: based on economic models
+
+Highlight [page 74]: the idea that trade is good only if you receive high wages is our final fallacy.
+
+Highlight [page 74]: Trade exploits a country and makes it worse off if its workers receive much lower wages than workers in other nations
+
+
+Comparative Advantage with Many Goods
+
+Highlight [page 75]: one cannot declare that a low wage represents exploitation unless one knows what the alternative is.
+
+Highlight [page 77]: The relative derived demand for Home labor will fall when the ratio of Home to Foreign wages rises, for two reasons.
+
+Highlight [page 77]: as Home labor becomes more expensive relative to Foreign labor, goods produced in Home also become relatively more expensi
+
+Highlight [page 77]: as Home wages rise, fewer goods will be produced in Home and more in Foreign, further reducing the demand for Home labor
+
+
+Adding Transport Costs and Nontraded Goods
+
+Highlight [page 79]: Transportation costs do not change the fundamental principles of comparative advantage or the gains from trade.
+
+Highlight [page 79]: transport costs pose obstacles to the movement of goods and services
+
+Highlight [page 79]: The existence of more than one factor of production reduces the tendency toward specialization
+
+Highlight [page 79]: Countries sometimes protect industries from foreign competition
+
+Highlight [page 79]: It is costly to transport goods and services
+
+
+Empirical Evidence on the Ricardian Model
+
+Highlight [page 80]: as mentioned in our discussion of nontraded goods, the simple Ricardian model predicts an extreme degree of specialization that we do not observe in the real world.
+
+Highlight [page 80]: the Ricardian model assumes away effects of international trade on the distribution of income within countries, and thus predicts that countries as a whole will always gain from trade
+
+Highlight [page 80]: the Ricardian model neglects the possible role of economies of scale as a cause of trade, which leaves it unable to explain the large trade flows between apparently similar nations
+
+
+4 SPECIFIC FACTORS AND INCOME DISTRIBUTION
+
+Highlight [page 86]: The Ricardian model thus suggests not only that all countries gain from trade, but also that every individual is made better off as a result of international trade
+
+Highlight [page 86]: because trade does not affect the distribution of income.
+
+Underline [page 86]: trade has substantial effects on the income distribution within each trading nation
+
+Highlight [page 86]: There are two main reasons why international trade has strong effects on the distribution of income.
+
+Highlight [page 86]: resources cannot move immediately or without cost from one industry to another
+
+Highlight [page 86]: industries differ in the factors of production they demand.
+
+Highlight [page 87]: vehemently
+
+
+The Specific Factors Model
+
+Highlight [page 87]: specific factors model
+
+Highlight [page 87]: Paul Samuelson and Ronald Jones
+
+
+Box: What Is a Specific Factor?
+
+Highlight [page 88]: mobile factor
+
+Highlight [page 88]: specific.
+
+Highlight [page 89]: production function
+
+Highlight [page 89]: capital and labor
+
+Highlight [page 89]: L C + L F = L.
+
+Highlight [page 89]: production possibility frontier.
+
+Highlight [page 89]: marginal product of labor
+
+Highlight [page 89]: diminishing returns
+
+Highlight [page 94]: at the production point, the production possibility frontier must be tangent to a line whose slope is minus the price of cloth divided by that of food.
+
+Highlight [page 95]: With the same amount of labor employed in each sector, receiving the same real wage rate, the real incomes of capital owners and landowners also remain the same.
+
+Highlight [page 95]: So everyone is in exactly the same position as before. This illustrates a general principle:
+
+Highlight [page 96]: the determination of production possibilities
+
+Highlight [page 96]: he determination of resource allocation, production, and relative prices
+
+
+International Trade in the Specific Factors Model
+
+Highlight [page 98]: repercussions
+
+
+Income Distribution and the Gains from Trade
+
+Highlight [page 99]: we saw that the specific factor in the sector whose relative price increases will gain and that the specific factor in the other sector (whose relative price decreases) will lose.
+
+Highlight [page 99]: welfare changes for the mobile factor are ambiguous.
+
+Highlight [page 100]: Trade benefits the factor specific to the export sector of each country but hurts the factor specific to the import-competing sectors, with ambiguous effects on mobile factors.
+
+Highlight [page 101]: a trading economy to consume more of both goods than it would have in the absence of trade.
+
+Highlight [page 101]: observe that if the economy as a whole consumes more of both goods, then it is possible in principle to give each individual more of both goods.
+
+Highlight [page 101]: trade potentially benefits a country is that it expands the economy’s choices.
+
+Highlight [page 101]: it is always possible to redistribute income in such a way that everyone gains from trade.
+
+Highlight [page 101]: That everyone could gain from trade unfortunately does not mean that everyone actually does.
+
+
+The Political Economy of Trade: A Preliminary View
+
+Highlight [page 102]: United States, workers in the import-competing sectors earn wages substantially below the average wage, and those workers earning the lowest wage face the highest risk of separation from their current employer due to import competition.
+
+Highlight [page 102]: plight
+
+Highlight [page 102]: There are three main reasons why economists do not generally stress the income distribution effects of trade:
+
+Highlight [page 102]: Income distribution effects are not specific to international trade.
+
+Highlight [page 102]: It is always better to allow trade and compensate those who are hurt by it than to prohibit the trade.
+
+Highlight [page 102]: Those who stand to lose from increased trade are typically better organized than those who stand to gain (because the former are more concentrated within regions and industries).
+
+
+International Labor Mobility
+
+Highlight [page 107]: Three points should be noted about this redistribution of the world’s labor force
+
+Highlight [page 107]: It leads to a convergence of real wage rates. Real wages rise in Home and fall in Foreign.
+
+Highlight [page 107]: It increases the world’s output as a whole.
+
+Highlight [page 107]: Despite this gain, some people are hurt by the change.
+
+
+CASE STUDY: Wage Convergence in the Age of Mass Migration
+
+Highlight [page 107]: endowment
+
+
+Appendix: Further Details on Specific Factors
+
+Highlight [page 115]: relationship between marginal and total product
+
+Highlight [page 115]: income distribution effects of relative price changes
+
+Highlight [page 116]: value of the workers’ marginal product
+
+Highlight [page 116]: P C * MPL C , is equal to the wage w
+
+
+5 RESOURCES AND TRADE: THE HECKSCHER-OHLIN MODEL
+
+Highlight [page 119]: Heckscher-Ohlin theory
+
+Highlight [page 119]: factor-proportions theory
+
+
+Model of a Two-Factor Economy
+
+Highlight [page 120]: two countries, two goods, two factors of production.
+
+Highlight [page 120]: 2 by 2 by 2
+
+Highlight [page 123]: kink
+
+Highlight [page 123]: V = P C * Q C + P F * Q F
+
+Highlight [page 123]: At that point, the opportunity cost of cloth in terms of food is equal to the relative price of cloth, P C >P F .
+
+Highlight [page 124]: factor prices, w>r. 2
+
+Highlight [page 125]: there is a one-to-one relationship between the ratio of the wage rate to
+
+Highlight [page 128]: biased expansion of production possibilities
+
+
+Effects of International Trade between Two-Factor Economies
+
+Highlight [page 129]: Generally, an economy will tend to be relatively effective at producing goods that are intensive in the factors with which the country is relatively well endowed.
+
+Highlight [page 130]: The country that is abundant in a factor exports the good whose production is intensive in that factor.
+
+Highlight [page 131]: Countries tend to export goods whose production is intensive in factors with which the countries are abundantly endowed. 7
+
+Highlight [page 131]: Owners of a country’s abundant factors gain from trade, but owners of a country’s scarce factors lose
+
+Highlight [page 131]: Opening to trade expands an economy’s consumption possibilities (see Figure 4-11), so there is a way to make everybody better off.
+
+
+CASE STUDY: North-South Trade and Income Inequality
+
+Highlight [page 133]: the factor-proportions model says that international trade affects income distribution via a change in relative prices of goods.
+
+Highlight [page 133]: the model predicts that relative factor prices should converge: If wages of skilled workers are rising and those of unskilled workers are falling in the skill-abundant country, the reverse should be happening in the labor-abundant country. S
+
+Highlight [page 133]: although trade between advanced countries and NIEs has grown rapidly, it still constitutes only a small percentage of total spending in the advanced nations.
+
+Highlight [page 133]: skill-biased technological change
+
+
+CASE STUDY: Skill-Biased Technological Change and Income Inequality
+
+Highlight [page 137]: equalization of factor prices.
+
+Highlight [page 137]: International trade leads to complete equalization of factor prices.
+
+
+Empirical Evidence on the Heckscher-Ohlin Model
+
+Highlight [page 138]: The proposition that trade equalizes factor prices will not hold if countries have different technologies of production.
+
+Highlight [page 138]: Complete factor-price equalization also depends on complete convergence of the prices of goods.
+
+Highlight [page 138]: Even if all countries use the same technologies and face the same goods prices, factor price equalization still depends on the assumption that countries produce the same set of goods.
+
+
+Appendix: Factor Prices, Goods Prices, and Production Decisions
+
+Highlight [page 149]: the ratio of labor to capital employed in each industry depends on the wage-rental ratio w>r.
+
+Highlight [page 149]: tween relative goods prices P C >P F and the wage-rental ratio. Third was t there is a one-to-one relationship be-
+
+Highlight [page 149]: n amount of capital K is rK. So if one is able to produce a unit of food using units of labor and units of capital, the total cost of producing that unit, c, is

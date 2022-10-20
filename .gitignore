@@ -1,0 +1,15 @@
+# Compile Files
+*.pyc
+
+
+A_Utilities/*/*.caj
+A_Utilities/*/*.pdf
+A_Utilities/*/*.m4a
+A_Utilities/*/*.wav
+
+
+# Temp Files
+.DS_Store
+*/DS_Store
+*~
+*/*~

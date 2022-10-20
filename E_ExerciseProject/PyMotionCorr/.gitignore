@@ -1,0 +1,6 @@
+*.mrc
+*.mrcs
+*.png
+# Ignore python compile file
+*.pyc
+*.pickle
